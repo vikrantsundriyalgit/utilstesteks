@@ -6,4 +6,4 @@ resources:
 
 images:
   - name: 'vikrantsundriyal/utilsflask'
-    newTag: 'v001'
+    newTag: 'v002'
