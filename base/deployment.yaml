@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: flask
-        image: vikrantsundriyal/utilsflask:v001 
+        image: vikrantsundriyal/utilsflask:v002 
         ports:
         - containerPort: 5000
