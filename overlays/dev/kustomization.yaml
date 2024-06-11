@@ -7,3 +7,6 @@ resources:
 images:
   - name: 'vikrantsundriyal/utilsflask'
     newTag: 'v002'
+replicas:
+  - name: flask
+    count: 2
