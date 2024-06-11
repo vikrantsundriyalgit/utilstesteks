@@ -6,7 +6,8 @@ resources:
 
 images:
   - name: 'vikrantsundriyal/utilsflask'
-    newTag: 'v002'
+    newTag: 'v003'
+
 replicas:
   - name: flask-deployment
     count: 2
