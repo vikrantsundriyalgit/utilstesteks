@@ -8,5 +8,5 @@ images:
   - name: 'vikrantsundriyal/utilsflask'
     newTag: 'v002'
 replicas:
-  - name: flask
+  - name: flask-deployment
     count: 2
